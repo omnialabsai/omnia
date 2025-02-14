@@ -17,4 +17,16 @@ Omnia AI is an interactive AI ecosystem where autonomous agents exist within a p
 **Phase 3:** 3D Environment & AI Interactions  
 **Phase 4:** Expansion Toward Autonomous AI and AGI  
 
-Full details can be found in the [Roadmap](https://x.com/omnialabsai).  
+Full details can be found on the [X Page](https://x.com/omnialabsai).  
+
+## Repository Status  
+
+This project is **not currently open source**, and the code will not be publicly available at this time. Future releases may include public-facing components or API access.  
+
+## Resources  
+
+- **Twitter:** [https://x.com/omnialabsai](https://x.com/omnialabsai)  
+- **Discord:** [https://discord.com/invite/dKyzuQcKBr](https://discord.com/invite/dKyzuQcKBr)  
+- **Changelog:** [CHANGELOG.md](https://github.com/SethTML/OmniaAI/blob/main/CHANGELOG.md)  
+
+Omnia AI is an ongoing experiment in AI evolution, pushing the boundaries of intelligence in digital environments.  
