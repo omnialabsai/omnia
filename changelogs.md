@@ -2,6 +2,11 @@
 
 All notable changes to Omnia AI will be documented in this file.  
 
+## [2.14.25] - Update Page Added  
+**February 14, 2025 | 3:30 PM EST**  
+- Integrated `/updates` page into the website front-end to display changelog entries.  
+- Fetches and renders `changelogs.md` directly from GitHub.  
+
 ## [2.14.25] - Roadmap Integration  
 **February 14, 2025 | 3:00 PM EST**  
 - Added `/roadmap` page outlining Omnia’s long-term development goals.  
